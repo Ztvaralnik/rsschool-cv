@@ -1,1 +1,1 @@
-[# rsschool-cv](https://Ztvaralnik.github.io/rsschool-cv/cv)
+(https://Ztvaralnik.github.io/rsschool-cv/cv)
